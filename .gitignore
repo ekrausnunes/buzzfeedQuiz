@@ -1,0 +1,10 @@
+# depencies
+/node_modules
+
+# VS Code use
+.vscode/
+
+#misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
